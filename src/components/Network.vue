@@ -63,7 +63,7 @@ export default {
         header: true,
         worker: false,
         fastMode: true,
-        // step: ({ data, errors }) => {},
+        // step: ({ data, errors }) => {}
         complete: ({ data }) => {
           const edges = []
           const leafNodes = data
