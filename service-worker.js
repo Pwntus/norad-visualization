@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5a1f11885fc2e89f68337d6544bec371.js"
+  "/norad-visualization/precache-manifest.728a834b27ae0724d361c7a1f00d833c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "norad-visualization"});
