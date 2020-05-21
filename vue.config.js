@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/norad-visualization/',
   transpileDependencies: [
     'vuetify'
   ],
